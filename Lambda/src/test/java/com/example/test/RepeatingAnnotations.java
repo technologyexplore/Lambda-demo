@@ -1,4 +1,4 @@
-package com.shein.test;
+package com.example.test;
 
 import java.lang.annotation.*;
 

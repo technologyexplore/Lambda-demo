@@ -6,7 +6,7 @@
  * @date 2018-08-01 16:56:16
  * @version : V1.0
  */
-package com.shein.domain;
+package com.example.domain;
 import java.math.BigDecimal;
 import java.util.Date;
 

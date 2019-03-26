@@ -1,6 +1,5 @@
-package com.shein.test;
+package com.example.test;
 
-import com.shein.test.Funtional;
 import org.junit.Test;
 
 /**

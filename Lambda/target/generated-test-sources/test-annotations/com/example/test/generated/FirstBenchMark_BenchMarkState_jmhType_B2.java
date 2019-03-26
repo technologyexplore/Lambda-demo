@@ -1,4 +1,4 @@
-package com.shein.test.generated;
+package com.example.test.generated;
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 public class FirstBenchMark_BenchMarkState_jmhType_B2 extends FirstBenchMark_BenchMarkState_jmhType_B1 {
     public volatile int setupTrialMutex;

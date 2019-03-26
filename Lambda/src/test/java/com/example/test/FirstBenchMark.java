@@ -1,4 +1,4 @@
-package com.shein.test;
+package com.example.test;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.runner.Runner;

@@ -1,6 +1,6 @@
-package com.shein.test;
+package com.example.test;
 
-import com.shein.domain.AllotOrderDetailEntity;
+import com.example.domain.AllotOrderDetailEntity;
 import org.junit.Test;
 
 import java.math.BigDecimal;
